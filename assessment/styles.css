@@ -1,0 +1,44 @@
+/* 
+
+This new cat website is going live any minute now. 
+Someone needs to style it quick!
+
+The site has two headings h1, and h2. There is are two lists each with a few list items. ::after
+
+Your goal is add some styles. Write your code below.  
+*/
+
+ /* Add the follow styles to the body */
+ /* font-family Helvetica */
+ /* color #333 */
+/* background-color #eee */
+
+
+/* Style the h1 heading */
+/* text-align center */
+/* text-transform uppercase */
+
+
+/* Style the h2 headings */
+/* text-decoration underline */
+
+
+/* Style ul the list */
+/* list-style circle */
+
+
+/* The sup tag represents superscript give it a color */
+/* color #090 */
+
+
+/* We had to delete to erroneous information style del tag */
+/* text-decoration line-through */
+/* text-decoration-style: wavy */
+/* color #009 */
+
+
+/* Style the even list items */
+/* use this selector: li:nth-child(even) */
+/* background-color #ddd */
+
+
